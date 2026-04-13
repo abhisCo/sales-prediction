@@ -30,4 +30,10 @@ demonstrating how data-driven approaches can assist business decision-making.
 
 ## Conclusion
 This project highlights the practical use of machine learning in sales forecasting
-and marketing strategy analysis.
+and marketing strategy analysis. 
+
+## 📊 Data Analysis Visualizations
+
+### 📌 Pairplot
+![Pairplot](Pairplot.png)
+
