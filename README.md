@@ -37,3 +37,8 @@ and marketing strategy analysis.
 ### 📌 Pairplot
 ![Pairplot](Pairplot.png)
 
+### 📌 Distribution_plots
+![Distribution_plots](Distribution_plots.png)
+
+### 📌 Correlation_Matrix
+![Correlation_Matrix](Correlation_Matrix.png)
